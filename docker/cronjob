@@ -1,0 +1,1 @@
+* * * * * /usr/local/bin/php /var/www/bin/console app:import-logs --no-interaction >> /dev/stdout 2>&1
